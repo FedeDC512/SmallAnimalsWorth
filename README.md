@@ -9,11 +9,6 @@ This game was developed as the final project for the 3D Game Development course 
 <div>
   <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Menu.png" alt="Menu">
   <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Tutorial.png" alt="Tutorial">
-  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Level1.png" alt="Level 1">
-  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Attack0.png" alt="Normal Attack">
-  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Attack1.png" alt="Banana Attack">
-  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Level2.png" alt="Level 2">
-  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Attack2.png" alt="Snake Attack">
-  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Level3.png" alt="">
-  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Attack3.png" alt="Sushi Attack">
+  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Level.png" alt="Level 1">
+  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Attack.png" alt="Banana Attack">
 </div>
