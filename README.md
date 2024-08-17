@@ -1,4 +1,4 @@
-# SmallAnimalsWorth
+# Small Animals' Worth
 
 SmallAnimalsWorth is a game where tiny animals battle against larger ones, created using Unity. The game features three levels, each with a different theme and animals. As you progress, the levels get progressively harder. 🐦
 
