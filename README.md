@@ -10,5 +10,5 @@ This game was developed as the Final Project for the 3D Game Development course 
   <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/menu.png" alt="Menu">
   <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/tutorial.png" alt="Tutorial">
   <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/level.gif" alt="Level 1">
-  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/attack.gng" alt="Attack">
+  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/attack.gif" alt="Attack">
 </div>
