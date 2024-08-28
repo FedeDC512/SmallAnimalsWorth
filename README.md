@@ -7,8 +7,8 @@ In the game, you can choose to heal or attack. Your opponents have three types o
 This game was developed as the Final Project for the 3D Game Development course at University of Debrecen, led by [Dr. Kruppa Kinga Tünde](https://inf.unideb.hu/en/dr-kinga-tunde-kruppa), from February 2023 to June 2023. Other projects completed during the course can be viewed in the repository [here](https://github.com/FedeDC512/unity-projects). 🐠
 
 <div>
-  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Menu.png" alt="Menu">
-  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Tutorial.png" alt="Tutorial">
-  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Level.png" alt="Level 1">
-  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/Attack.png" alt="Banana Attack">
+  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/menu.png" alt="Menu">
+  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/tutorial.png" alt="Tutorial">
+  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/level.gif" alt="Level 1">
+  <img src="https://github.com/FedeDC512/SmallAnimalsWorth/blob/main/images/attack.gng" alt="Attack">
 </div>
